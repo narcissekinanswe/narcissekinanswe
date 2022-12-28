@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narcissekinanswe
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning java and pytho
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on programming 
 - 📫 How to reach me. I am living in Johannesburg
 
